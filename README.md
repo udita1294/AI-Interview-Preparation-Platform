@@ -43,6 +43,8 @@
 | Zod | Schema validation & LLM output structuring |
 
 ---
+<img width="1898" height="901" alt="image" src="https://github.com/user-attachments/assets/e9bf5700-0107-489c-b39b-17aa30d15555" />
+
 
 ## 📁 Project Structure
 ```
