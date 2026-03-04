@@ -109,30 +109,6 @@ Gemini LLM returns structured JSON:
 Saved to MongoDB → returned to client
 ```
 
----
-
-## 🔒 Security
-
-- Passwords hashed with **bcrypt**
-- **Stateless JWT** in HTTP-only cookies (XSS-safe)
-- Token blacklist with TTL index for secure logout
-- Protected routes via auth middleware on all `/interview` endpoints
-- Zod validation on all request bodies
-
----
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit: `git commit -m 'Add your feature'`
-4. Push: `git push origin feature/your-feature`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
