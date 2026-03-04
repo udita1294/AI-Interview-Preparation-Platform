@@ -15,8 +15,8 @@ const Button = forwardRef(function Button(
 
   const variants = {
     primary:
-      'border-0 bg-gradient-to-br from-[#ff2d78] to-[#cc1f5f] text-white ' +
-      'shadow-lg shadow-[#ff2d78]/20 hover:shadow-[#ff2d78]/40 hover:brightness-110',
+      'border-0 bg-gradient-to-br from-[#ff4d4d] to-[#ff4d4d] text-white ' +
+      'shadow-lg shadow-[#ff4d4d]/20 hover:shadow-[#ff4d4d]/40 hover:brightness-110',
     ghost:
       'border border-[#2a3348] bg-transparent text-[#7d8590] ' +
       'hover:bg-[#1c2230] hover:text-[#e6edf3] hover:border-[#3d4d66]',
