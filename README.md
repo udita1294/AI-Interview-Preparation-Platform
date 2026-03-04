@@ -37,7 +37,9 @@
 | Zod | Schema validation & LLM output structuring |
 
 ---
-<img width="1872" height="898" alt="image" src="https://github.com/user-attachments/assets/b3a305fb-6a4f-4da4-bc03-6cb5cb25d028" />
+
+
+<img width="1882" height="904" alt="image" src="https://github.com/user-attachments/assets/0f88ec4e-bfc1-4cc5-8f4a-301a4e26cef5" />
 <img width="1876" height="901" alt="image" src="https://github.com/user-attachments/assets/dfdcd9ad-bdea-4127-b24d-50f11ecc3a70" />
 <img width="1814" height="877" alt="image" src="https://github.com/user-attachments/assets/5502647e-9146-4e39-b0e2-7d7d110bbb9c" />
 
