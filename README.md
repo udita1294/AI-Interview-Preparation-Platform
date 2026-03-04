@@ -110,9 +110,3 @@ Gemini LLM returns structured JSON:
          ↓
 Saved to MongoDB → returned to client
 ```
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">Built with ❤️ by <a href="https://github.com/udita1294">udita1294</a></div>
