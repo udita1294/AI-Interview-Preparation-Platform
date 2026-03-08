@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://localhost:3000",
+    baseURL: "http://localhost:3000" || "https://ai-interview-preparation-platform-zjmy.onrender.com",
     withCredentials: true,
 })
 
