@@ -2,7 +2,7 @@ import axios from "axios"
 
 
 const api = axios.create({
-    baseURL: "http://localhost:3000" || "https://ai-interview-preparation-platform-zjmy.onrender.com",
+    baseURL: "http://localhost:3000" || "https://ai-interview-preparation-platform-1-fhbj.onrender.com",
     withCredentials: true
 })
 
